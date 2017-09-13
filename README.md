@@ -27,7 +27,15 @@ During execution, the name of the current classifier appears, while, once finish
 
 ## Output Examples
 
-![Alt text](/home/federico/PycharmProjects/ProgettoAI/Plotted/20Newsgroups0.png?raw=true "20 News Groups without TfidfTransformer")
+You can find every output in the folder Plotted.
+
+[Alt text](../master/Plotted/20Newsgroups0.png?raw=true "20 News Groups without TfidfTransformer")
+
+[Alt text](../master/Plotted/MNISTOriginal0.png?raw=true "MNIST Orignal complete size")
+
+## Conclusions
+
+There's also a pdf with mine conlcusions about this comparision (only Italian avaiable)
     
 ## Authors
 
