@@ -35,7 +35,7 @@ You can find every output in the folder Plotted.
 
 ## Conclusions
 
-There's also a pdf with mine conlcusions about this comparision (only Italian avaiable) ![AI Reporting](../master/AI Reporting.pdf)
+There's also a pdf with mine conlcusions about this comparision (only Italian avaiable) - [Project Reporting](../master/AI_Reporting.pdf "Project Reporting PDF")
     
 ## Authors
 
