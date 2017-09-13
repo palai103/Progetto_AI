@@ -24,6 +24,10 @@ Libraries which need to be installed for its use, are:
 When you run the script, the list of avaiable datasets is shows. The number beside the name is to be entered to start processing on that dataset (give 0 to finish executing the script). NOTE: if one or more datasets is not already installed, the script needs an internet connection for download. For the first two datasets (20newsgroups and Reuters-21578), a sub-menu of choice appears to use or not, the TfidfTransformer function.
 For the MNIST dataset, a sub-menu of choice appears to use the entire dataset size or not. 
 During execution, the name of the current classifier appears, while, once finished, you will be asked if you want to save the .png image in a default directory, (current_directory/Plotted) or not (in which case, the script ends). The resulting graph is then shown, the figure is automatically saved, the execution time is shown and then it returns to the selection of the dataset.
+
+## Output Examples
+
+![Alt text](/home/federico/PycharmProjects/ProgettoAI/Plotted/20Newsgroups0.png?raw=true "20 News Groups without TfidfTransformer")
     
 ## Authors
 
