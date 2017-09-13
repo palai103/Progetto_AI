@@ -29,13 +29,13 @@ During execution, the name of the current classifier appears, while, once finish
 
 You can find every output in the folder Plotted.
 
-[Alt text](../master/Plotted/20Newsgroups0.png?raw=true "20 News Groups without TfidfTransformer")
+![20 News Groups without TfidfTransformer](../master/Plotted/20Newsgroups0.png)
 
-[Alt text](../master/Plotted/MNISTOriginal0.png?raw=true "MNIST Orignal complete size")
+![MNIST Orignal complete size](../master/Plotted/MNISTOriginal0.png)
 
 ## Conclusions
 
-There's also a pdf with mine conlcusions about this comparision (only Italian avaiable)
+There's also a pdf with mine conlcusions about this comparision (only Italian avaiable) ![AI Reporting](../master/AI Reporting.pdf)
     
 ## Authors
 
